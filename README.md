@@ -1,5 +1,6 @@
 # Hello-World
-my first repository
+my first repository.
+Use this template to enter class and personal projects
 
 ## Table of Contents
 - [project title](#project-title)
@@ -12,7 +13,8 @@ my first repository
 *enter the title of the project here*
 
 ## Description
-do not forget to ==enter the description==. 
+~do not enter the description~
+don't forget the description
 
 ## How to run program
 watch a youtube video on ["how to use python"](https://youtu.be/b093aqAZiPU?si=cxEbBd4-Pl90aWla)
